@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Created on Nov 4, 2010
 Chapter 5 source file for Machine Learing in Action
@@ -10,6 +11,7 @@ def loadDataSet(fileName):
     dataMat = []; labelMat = []
     fr = open(fileName)
     for line in fr.readlines():
+        # 把每一行的数据变味了['3.542485', '1.977398', '-1']的形式
         lineArr = line.strip().split('\t')
         dataMat.append([float(lineArr[0]), float(lineArr[1])])
         labelMat.append(float(lineArr[2]))
@@ -36,6 +38,7 @@ def smoSimple(dataMatIn, classLabels, C, toler, maxIter):
     while (iter < maxIter):
         alphaPairsChanged = 0
         for i in range(m):
+            #.T means that Returns the transpose of the matrix.
             fXi = float(multiply(alphas,labelMat).T*(dataMatrix*dataMatrix[i,:].T)) + b
             Ei = fXi - float(labelMat[i])#if checks if an example violates KKT conditions
             if ((labelMat[i]*Ei < -toler) and (alphas[i] < C)) or ((labelMat[i]*Ei > toler) and (alphas[i] > 0)):
