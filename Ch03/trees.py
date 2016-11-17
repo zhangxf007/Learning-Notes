@@ -52,14 +52,22 @@ def chooseBestFeatureToSplit(dataSet):
     baseEntropy = calcShannonEnt(dataSet)
     bestInfoGain = 0.0; bestFeature = -1
     for i in range(numFeatures):        #iterate over all the features
+        #print "this is feature : ", i
         featList = [example[i] for example in dataSet]#create a list of all the examples of this feature
+        #print "featList is: ", featList
         uniqueVals = set(featList)       #get a set of unique values
+        #print "uniqueVals is: ", uniqueVals
         newEntropy = 0.0
         for value in uniqueVals:
             subDataSet = splitDataSet(dataSet, i, value)
+            #print "subDataSet is:", subDataSet
             prob = len(subDataSet)/float(len(dataSet))
+            #print "len(subDataSet) is %d and len(dataSet) is %d, the prob is %f" % (len(subDataSet), float(len(dataSet)), prob)
             newEntropy += prob * calcShannonEnt(subDataSet)
+            #print "newEntropy is: %f" % (newEntropy)
         infoGain = baseEntropy - newEntropy     #calculate the info gain; ie reduction in entropy
+        #print "infoGain is %f" % (infoGain)
+
         if (infoGain > bestInfoGain):       #compare this to the best gain so far
             bestInfoGain = infoGain         #if better than current best, set to best
             bestFeature = i
