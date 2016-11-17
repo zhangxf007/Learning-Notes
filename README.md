@@ -1,7 +1,11 @@
-Machine Learning in Action 
+
+This repo is a playground when I learning the book *Machine Learning in Action*, I write some code to reproduce the work in the book.
+Below is the original readme statement.
+
+Machine Learning in Action
 ==========================
 
-This is the source code to go with "Machine Learning in Action" 
+This is the source code to go with "Machine Learning in Action"
 by Peter Harrington published by Manning Inc.
 The official page for this book can be found here: http://manning.com/pharrington/
 
