@@ -1,3 +1,5 @@
+# using ast.literal_eval change the input(string) to a list in order to process
+
 import ast
 
 def list2str(row_list):
