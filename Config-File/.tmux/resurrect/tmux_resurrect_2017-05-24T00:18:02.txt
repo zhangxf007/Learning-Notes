@@ -1,0 +1,12 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	0	:-	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	0	:py27	0	:-	1	:/Users/xu/DLearning/Master_Project/HMC	1	zsh	:
+pane	xu	1	:py35	0	:	0	:/Users/xu	0	zsh	:
+pane	xu	1	:py35	0	:	1	:/Users/xu	1	zsh	:
+pane	xu	2	:july	1	:*	0	:/Users/xu/Udacity/ChatBot	1	ssh	:ssh julyedu_49434@47.93.90.174
+pane	xu	2	:july	1	:*	1	:/Users/xu/Udacity/ChatBot	0	zsh	:
+window	0	0	1	:*	b25e,88x42,0,0,1
+window	xu	0	0	:-	6aa9,118x58,0,0[118x29,0,0,2,118x28,0,30,3]
+window	xu	1	0	:	6aae,118x58,0,0[118x29,0,0,4,118x28,0,30,5]
+window	xu	2	1	:*	6ab3,118x58,0,0[118x29,0,0,6,118x28,0,30,7]
+state	xu	0

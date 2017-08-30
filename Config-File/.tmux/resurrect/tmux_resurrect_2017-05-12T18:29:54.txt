@@ -1,0 +1,9 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	1	:*	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	0	:py27	1	:*	1	:/Users/xu/DLearning/Master_Project/HMC	1	python2.7	:/Users/xu/anaconda/bin/python /Users/xu/anaconda/bin/jupyter-notebook
+pane	xu	1	:py35	0	:-	0	:/Users/xu/Downloads/graph-tool-2.22	0	zsh	:
+pane	xu	1	:py35	0	:-	1	:/Users/xu	1	zsh	:
+window	0	0	1	:*	b15d,86x42,0,0,0
+window	xu	0	1	:*	5d59,88x42,0,0[88x21,0,0,4,88x20,0,22,10]
+window	xu	1	0	:-	a212,88x42,0,0[88x21,0,0,14,88x20,0,22,15]
+state	xu	0

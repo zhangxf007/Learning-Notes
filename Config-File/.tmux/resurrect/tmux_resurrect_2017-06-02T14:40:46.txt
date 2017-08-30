@@ -1,0 +1,17 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	0	:	0	:/Users/xu/DLearning/LeetCode	0	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+pane	xu	0	:py27	0	:	1	:/Users/xu/DLearning/Master_Project/HMC	1	zsh	:
+pane	xu	1	:py35	0	:	0	:/Users/xu/Udacity	1	zsh	:
+pane	xu	2	:july	0	:	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	2	:july	0	:	1	:/Users/xu/Udacity/ChatBot/lesson_material	1	zsh	:
+pane	xu	3	:tf	0	:-	0	:/Users/xu/DLearning/Tensorflow	0	bash	:/bin/bash /Users/xu/anaconda/envs/py35/bin/python.app /Users/xu/anaconda/envs/py35/bin/ipython
+pane	xu	3	:tf	0	:-	1	:/Users/xu/DLearning/Tensorflow	1	zsh	:
+pane	xu	4	:LeetCode	1	:*	0	:/Users/xu/DLearning/LeetCode	1	zsh	:
+pane	xu	4	:LeetCode	1	:*	1	:/Users/xu/DLearning/LeetCode	0	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+window	0	0	1	:*	b25e,80x24,0,0,1
+window	xu	0	0	:	ba1e,88x42,0,0[88x21,0,0,2,88x20,0,22,3]
+window	xu	1	0	:	b261,88x42,0,0,4
+window	xu	2	0	:	ba30,88x42,0,0[88x21,0,0,6,88x20,0,22,7]
+window	xu	3	0	:-	45e1,88x42,0,0[88x20,0,0,8,88x21,0,21,10]
+window	xu	4	1	:*	1d66,88x42,0,0[88x21,0,0,9,88x20,0,22,25]
+state	xu	0

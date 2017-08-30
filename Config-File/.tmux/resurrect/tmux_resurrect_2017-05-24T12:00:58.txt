@@ -1,0 +1,14 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	0	:	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	0	:py27	0	:	1	:/Users/xu/DLearning/Master_Project/HMC	1	zsh	:
+pane	xu	1	:py35	0	:	0	:/Users/xu	0	zsh	:
+pane	xu	1	:py35	0	:	1	:/Users/xu	1	zsh	:
+pane	xu	2	:july	0	:-	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	2	:july	0	:-	1	:/Users/xu/Udacity/ChatBot	1	zsh	:
+pane	xu	3	:tf	1	:*	0	:/Users/xu/Udacity/ChatBot	1	zsh	:
+window	0	0	1	:*	b25e,88x42,0,0,1
+window	xu	0	0	:	0be2,131x42,0,0[131x21,0,0,2,131x20,0,22,3]
+window	xu	1	0	:	0be7,131x42,0,0[131x21,0,0,4,131x20,0,22,5]
+window	xu	2	0	:-	0bec,131x42,0,0[131x21,0,0,6,131x20,0,22,7]
+window	xu	3	1	:*	b3c5,131x42,0,0,8
+state	xu	0

@@ -1,0 +1,16 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	1	:*	0	:/Users/xu/DLearning/LintCode	0	zsh	:
+pane	xu	0	:py27	1	:*	1	:/Users/xu/DLearning/Master_Project/HMC	1	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+pane	xu	1	:py35	0	:-	0	:/Users/xu	1	zsh	:
+pane	xu	1	:py35	0	:-	1	:/Users/xu	0	zsh	:
+pane	xu	2	:july	0	:	0	:/Users/xu/Udacity/ChatBot	0	zsh	:
+pane	xu	2	:july	0	:	1	:/Users/xu/Udacity/ChatBot/lesson_material	1	zsh	:
+pane	xu	3	:tf	0	:	0	:/Users/xu/DLearning/Tensorflow/tf_tut	1	zsh	:
+pane	xu	4	:zsh	0	:	0	:/Users/xu/Udacity/ChatBot	1	zsh	:
+window	0	0	1	:*	b25e,88x42,0,0,1
+window	xu	0	1	:*	ba1e,88x42,0,0[88x21,0,0,2,88x20,0,22,3]
+window	xu	1	0	:-	ba27,88x42,0,0[88x21,0,0,4,88x20,0,22,5]
+window	xu	2	0	:	ba30,88x42,0,0[88x21,0,0,6,88x20,0,22,7]
+window	xu	3	0	:	b265,88x42,0,0,8
+window	xu	4	0	:	b266,88x42,0,0,9
+state	xu	0

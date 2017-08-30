@@ -1,0 +1,7 @@
+pane	xu	0	:master	0	:	0	:/Users/xu	1	zsh	:
+pane	xu	1	:py35	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	2	:keras_tut	0	:-	0	:/Users/xu	1	zsh	:
+window	xu	0	0	:	b1dd,87x42,0,0,0
+window	xu	1	1	:*	b1de,87x42,0,0,1
+window	xu	2	0	:-	b1df,87x42,0,0,2
+state	xu	

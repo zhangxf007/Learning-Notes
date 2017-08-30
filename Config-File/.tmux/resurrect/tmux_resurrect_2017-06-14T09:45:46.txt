@@ -1,0 +1,28 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	0	:	0	:/private/tmp/tensorflow/mnist/logs	0	zsh	:
+pane	xu	0	:py27	0	:	1	:/Users/xu/anaconda/envs/py27/lib/python2.7/site-packages	1	zsh	:
+pane	xu	1	:py35	0	:	0	:/private/tmp/tensorflow/mnist/logs	1	zsh	:
+pane	xu	1	:py35	0	:	1	:/private/tmp/tensorflow/mnist/logs/mnist_with_summaries/train	0	zsh	:
+pane	xu	2	:HMC	0	:	0	:/Users/xu/DLearning/MasterProject/TF_Eisen_Go	0	zsh	:
+pane	xu	2	:HMC	0	:	1	:/Users/xu/DLearning/MasterProject/TF_Eisen_Go/preprocess	1	zsh	:
+pane	xu	3	:tf	0	:	0	:/Users/xu/DLearning/Tensorflow	0	zsh	:
+pane	xu	3	:tf	0	:	1	:/Users/xu/DLearning/Tensorflow	1	zsh	:
+pane	xu	4	:LeetCode	0	:	0	:/Users/xu/DLearning/GithubRepo/Learning-Notes/LeetCode	0	zsh	:
+pane	xu	4	:LeetCode	0	:	1	:/Users/xu/DLearning/GithubRepo/Learning-Notes/LeetCode	1	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+pane	xu	5	:play	0	:	0	:/Users/xu/DLearning/Playground	0	zsh	:
+pane	xu	5	:play	0	:	1	:/Users/xu/DLearning/Playground	0	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+pane	xu	5	:play	0	:	2	:/Users/xu/DLearning/Playground/tianchi_power	1	zsh	:
+pane	xu	6	:HMC-2	0	:-	0	:/Users/xu/DLearning/MasterProject/BeiShiDa_go_dataset	0	zsh	:
+pane	xu	6	:HMC-2	0	:-	1	:/Users/xu/DLearning/MasterProject	1	zsh	:
+pane	xu	7	:tf_action	1	:*	0	:/Users/xu/DLearning/Tensorflow/tf_action	0	python2.7	:/Users/xu/anaconda/envs/py27/bin/python /Users/xu/anaconda/envs/py27/bin/ipython
+pane	xu	7	:tf_action	1	:*	1	:/Users/xu/DLearning/Tensorflow/tf_action/6-DNN-and-TF-Implementation	1	zsh	:
+window	0	0	1	:*	b25e,80x24,0,0,1
+window	xu	0	0	:	e95c,118x43,0,0[118x24,0,0,2,118x18,0,25,29]
+window	xu	1	0	:	95db,118x43,0,0[118x23,0,0,4,118x19,0,24,32]
+window	xu	2	0	:	15dd,118x43,0,0[118x23,0,0,6,118x19,0,24,31]
+window	xu	3	0	:	f3dd,118x43,0,0[118x31,0,0,8,118x11,0,32,10]
+window	xu	4	0	:	a95f,118x43,0,0[118x24,0,0,9,118x18,0,25,30]
+window	xu	5	0	:	fdec,118x43,0,0[118x12,0,0,33,118x15,0,13,34,118x14,0,29,40]
+window	xu	6	0	:-	7a1d,118x43,0,0[118x22,0,0,35,118x20,0,23,36]
+window	xu	7	1	:*	e8a0,118x43,0,0[118x21,0,0,37,118x21,0,22,39]
+state	xu	0

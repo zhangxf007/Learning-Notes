@@ -1,0 +1,33 @@
+pane	0	0	:zsh	1	:*	0	:/Users/xu	1	zsh	:
+pane	xu	0	:py27	0	:	0	:/Users/xu	1	bash	:/bin/bash /Users/xu/anaconda/bin/python.app /Users/xu/anaconda/bin/ipython
+pane	xu	0	:py27	0	:	1	:/Users/xu/DLearning/July-Course/Word2Vec班/第2课	0	zsh	:
+pane	xu	1	:py35	0	:	0	:/Users/xu	0	bash	:/bin/bash /Users/xu/anaconda/envs/py35/bin/python.app /Users/xu/anaconda/envs/py35/bin/ipython
+pane	xu	1	:py35	0	:	1	:/Users/xu/DLearning/MasterProject/Hierarchical Multi-Label Software and Datasets/HMC-LMLP-Predicted_2016/HMC_LMLP_Predicted	1	zsh	:
+pane	xu	2	:HMC	0	:	0	:/Users/xu/DLearning/MasterProject/TF_Eisen_Go/model	0	zsh	:
+pane	xu	2	:HMC	0	:	1	:/Users/xu/DLearning/MasterProject/TF_Eisen_Go	1	zsh	:
+pane	xu	2	:HMC	0	:	2	:/Users/xu/DLearning/MasterProject/TF_Eisen_Go/model	0	zsh	:
+pane	xu	3	:keras	0	:	0	:/Users/xu/DLearning/GithubRepo	0	zsh	:
+pane	xu	3	:keras	0	:	1	:/Users/xu/DLearning/Tensorflow/keras_tut/functional_model	1	bash	:/bin/bash /Users/xu/anaconda/envs/py35/bin/python.app /Users/xu/anaconda/envs/py35/bin/ipython
+pane	xu	4	:LeetCode	0	:	0	:/Users/xu/DLearning/GithubRepo/Learning-Notes/LeetCode	0	zsh	:
+pane	xu	4	:LeetCode	0	:	1	:/Users/xu/DLearning/GithubRepo/Learning-Notes/LeetCode	1	zsh	:
+pane	xu	5	:play	0	:	0	:/Users/xu/DLearning/Playground	0	zsh	:
+pane	xu	5	:play	0	:	1	:/Users/xu/DLearning/Playground	1	bash	:/bin/bash /Users/xu/anaconda/envs/py35/bin/python.app /Users/xu/anaconda/envs/py35/bin/ipython
+pane	xu	6	:rnn	0	:	0	:/Users/xu/DLearning/Playground/rnn-from-scratch	1	zsh	:
+pane	xu	6	:rnn	0	:	1	:/Users/xu/anaconda/envs/py35/lib/python3.5/site-packages/nltk	0	zsh	:
+pane	xu	7	:tf_action	0	:-	0	:/Users/xu/DLearning/Tensorflow	0	zsh	:
+pane	xu	7	:tf_action	0	:-	1	:/Users/xu/DLearning/Tensorflow/tf_action/6-DNN-and-TF-Implementation	1	zsh	:
+pane	xu	8	:word2vec	1	:*	0	:/Users/xu/DLearning/July-Course/Word2Vec班/word2vec_tf_my_note	1	zsh	:
+pane	xu	8	:word2vec	1	:*	1	:/Users/xu/DLearning/July-Course/Word2Vec班/word2vec_tf_my_note	0	zsh	:
+pane	xu	9	:emotions	0	:	0	:/Users/xu/DLearning/MasterProject/BeiShiDa_go_dataset/emotions	1	zsh	:
+window	0	0	1	:*	b5fe,107x42,0,0,1
+window	xu	0	0	:	5084,178x42,0,0[178x28,0,0,2,178x13,0,29,3]
+window	xu	1	0	:	0289,178x42,0,0[178x26,0,0,4,178x15,0,27,5]
+window	xu	2	0	:	38e3,178x42,0,0[178x31,0,0,6,178x10,0,32{64x10,0,32,7,113x10,65,32,8}]
+window	xu	3	0	:	e44e,178x42,0,0[178x15,0,0,9,178x26,0,16,10]
+window	xu	4	0	:	fa45,178x42,0,0[178x24,0,0,11,178x17,0,25,12]
+window	xu	5	0	:	010b,178x42,0,0[178x21,0,0,14,178x20,0,22,26]
+window	xu	6	0	:	a8c6,178x42,0,0[178x23,0,0,21,178x18,0,24,22]
+window	xu	7	0	:-	4110,178x42,0,0[178x21,0,0,18,178x20,0,22,19]
+window	xu	8	1	:*	010a,178x42,0,0[178x21,0,0,23,178x20,0,22,25]
+window	xu	9	0	:	dc56,178x42,0,0,27
+state	xu	0

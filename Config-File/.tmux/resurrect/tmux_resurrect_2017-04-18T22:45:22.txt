@@ -1,0 +1,9 @@
+pane	xu	0	:master	0	:	0	:/Users/xu	1	zsh	:
+pane	xu	1	:py35	0	:	0	:/Users/xu	1	zsh	:
+pane	xu	2	:keras_tut	1	:*	0	:/Users/xu/DLearning/Tensorflow/keras_tutorial	1	bash	:/bin/bash /Users/xu/anaconda/envs/py35/bin/python.app /Users/xu/anaconda/envs/py35/bin/ipython
+pane	xu	3	:zenith	0	:-	0	:/Users/xu	1	zsh	:
+window	xu	0	0	:	b53d,172x42,0,0,0
+window	xu	1	0	:	b53e,172x42,0,0,1
+window	xu	2	1	:*	b53f,172x42,0,0,2
+window	xu	3	0	:-	b540,172x42,0,0,3
+state	xu	
